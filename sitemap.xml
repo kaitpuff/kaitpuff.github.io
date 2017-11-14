@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.kaitcartmell.com/index.html</loc>
+    <lastmod>2017-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/webportfoliogif3.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.kaitcartmell.com/about.html</loc>
+    <lastmod>2017-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.kaitcartmell.com/fun.html</loc>
+    <lastmod>2017-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.kaitcartmell.com/assets/mouse_click.png</loc>
+    <lastmod>2017-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.kaitcartmell.com/assets/mouse.png</loc>
+    <lastmod>2017-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.kaitcartmell.com/assets/dandelion.tif</loc>
+    <lastmod>2015-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

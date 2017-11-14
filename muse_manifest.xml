@@ -1,0 +1,45 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.kaitcartmell.com" resolutions="1x" timestamp="1510640803911">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="3847270269" ref="index:fun:about"/>
+    <file name="index.css" crc="3764904635" ref="index"/>
+    <file name="fun.css" crc="280835607" ref="fun"/>
+    <file name="about.css" crc="4120353096" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="dandelion.tif" crc="3975948107" seo="true" mt="1448380261000"/>
+    <file name="mouse.png" crc="4092305266" seo="true" mt="1510635714000"/>
+    <file name="mouse_click.png" crc="481072425" seo="true" mt="1510635726000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:fun"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:fun"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:fun"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:fun"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:fun"/>
+    <file name="require.js" crc="4157109226" ref="index:about:fun"/>
+  </folder>
+  <folder name="images">
+    <file name="menu_stroke.png" crc="3773899324" ref="index:about:fun">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="fun" alt=""/>
+    </file>
+    <file name="webportfoliogif3.gif" crc="325088291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3805183076" seo="true" mt="1510639699887" redirect="true"/>
+  <file name="about.html" crc="4145806891" seo="true" mt="1510639699885" redirect="true"/>
+  <file name="fun.html" crc="3966701915" seo="true" mt="1510638633709" redirect="true"/>
+</manifest>

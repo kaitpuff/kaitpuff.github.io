@@ -2,40 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.kaitcartmell.com/index.html</loc>
-    <lastmod>2017-11-14</lastmod>
+    <lastmod>2018-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.kaitcartmell.com/images/webportfoliogif3.gif</image:loc>
+      <image:loc>http://www.kaitcartmell.com/images/menubars.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/cheekl.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/eyebrowl.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/eyel.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/nosel.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/mouthl.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/cheekr.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/eyebrowr.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/eyer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/mouthr.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/noser.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.kaitcartmell.com/about.html</loc>
-    <lastmod>2017-11-14</lastmod>
+    <lastmod>2018-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/menubars.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/eyel.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://www.kaitcartmell.com/fun.html</loc>
-    <lastmod>2017-11-14</lastmod>
+    <loc>http://www.kaitcartmell.com/shop.html</loc>
+    <lastmod>2018-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/menubars.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/cactus-crop-u14338.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/road-crop-u14340.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/trees-crop-u14342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/cactus-crop-u14494.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/road-crop-u14496.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/trees-crop-u14498.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/cactus-crop-u14665.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/road-crop-u14667.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/trees-crop-u14669.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/cactus-crop-u14582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/road-crop-u14584.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/trees-crop-u14586.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://www.kaitcartmell.com/assets/mouse_click.png</loc>
-    <lastmod>2017-11-14</lastmod>
+    <loc>http://www.kaitcartmell.com/work.html</loc>
+    <lastmod>2018-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/menubars.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/logogreen.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/website%20mockup-crop-u18521.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/website%20phone%20mockup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/business%20card%20mockup2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/front%20mockup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/back%20mockup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/eggs%20bacon%20grp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/eggs%20oj%20grp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/flowers%20bottle%20grp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/pancake%20grp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/strawb%20waffle%20grp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/tea%20rattle%20grp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/watermelon%20grp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/img_7740%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/img_7731%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/terrace.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/interior.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/models.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/ground.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/commercial_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/commercial_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/office.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/residential.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/ttb_logo_forweb.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/rlr%20logo%20web.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.kaitcartmell.com/thanks.html</loc>
+    <lastmod>2018-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.kaitcartmell.com/images/menubars.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.kaitcartmell.com/assets/add-to-cart.png</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.kaitcartmell.com/assets/mouse.png</loc>
-    <lastmod>2017-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.kaitcartmell.com/assets/dandelion.tif</loc>
-    <lastmod>2015-11-24</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
